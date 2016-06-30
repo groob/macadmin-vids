@@ -359,40 +359,40 @@ videos =
     , added = "2016-06-29"
     , id = "kVxnIMirD7c"
     , url = "https://www.youtube.com/watch?v=kVxnIMirD7c"
-    , speakers = []
-    , tags = []
+    , speakers = [ "Jim Rispin" ]
+    , tags = [ "misc" ]
     , title = "You Suck At Email – And Other Communication Challenges for the IT Pro"
     }
   , { date = "2015-08-13"
     , added = "2016-06-29"
     , id = "vO0Zlfvno3g"
     , url = "https://www.youtube.com/watch?v=vO0Zlfvno3g"
-    , speakers = []
-    , tags = []
+    , speakers = [ "Ben Greisler" ]
+    , tags = [ "DNS", "networking" ]
     , title = "DNS - The Inside and Out"
     }
   , { date = "2015-08-13"
     , added = "2016-06-29"
     , id = "b3zfDQ9x-cI"
     , url = "https://www.youtube.com/watch?v=b3zfDQ9x-cI"
-    , speakers = []
-    , tags = []
+    , speakers = [ "Pepijn Bruienne" ]
+    , tags = [ "docker", "server", "linux" ]
     , title = "Connect the Dots with Docker"
     }
   , { date = "2015-08-13"
     , added = "2016-06-29"
     , id = "_8dZhYQd2Ho"
     , url = "https://www.youtube.com/watch?v=_8dZhYQd2Ho"
-    , speakers = []
-    , tags = []
+    , speakers = [ "Marc Grayson" ]
+    , tags = [ "iOS", "security", "mdm" ]
     , title = "iOS Security Choices via an MDM / EMM"
     }
   , { date = "2015-08-13"
     , added = "2016-06-29"
     , id = "XXmzYY03t64"
     , url = "https://www.youtube.com/watch?v=XXmzYY03t64"
-    , speakers = []
-    , tags = []
+    , speakers = [ "Daniel Mikusa" ]
+    , tags = [ "python", "programming" ]
     , title = "The SysAdmin’s Guide to Python"
     }
   , { date = "2015-08-13"
@@ -407,8 +407,8 @@ videos =
     , added = "2016-06-29"
     , id = "vxuqnVi3170"
     , url = "https://www.youtube.com/watch?v=vxuqnVi3170"
-    , speakers = []
-    , tags = []
+    , speakers = [ "Berry Williams" ]
+    , tags = [ "deployment", "imaging" ]
     , title = "Profile Manager, ARD, and Yosemite Server"
     }
   , { date = "2015-08-12"
@@ -503,8 +503,8 @@ videos =
     , added = "2016-06-29"
     , id = "R6KZgpu4NiY"
     , url = "https://www.youtube.com/watch?v=R6KZgpu4NiY"
-    , speakers = []
-    , tags = []
+    , speakers = [ "Rich Trouton" ]
+    , tags = [ "Virtualization", "vmware" ]
     , title = "Virtualization and OS X Testing"
     }
   , { date = "2015-08-11"
@@ -519,8 +519,8 @@ videos =
     , added = "2016-06-29"
     , id = "kRmWO52i-4Q"
     , url = "https://www.youtube.com/watch?v=kRmWO52i-4Q"
-    , speakers = []
-    , tags = []
+    , speakers = [ "Greg Neagle" ]
+    , tags = [ "munki" ]
     , title = "What's New with Munki"
     }
   , { date = "2015-08-11"
