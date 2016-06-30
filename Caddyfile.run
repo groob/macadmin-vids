@@ -1,7 +1,7 @@
 0.0.0.0:80
 gzip
 log stdout
-git https://github.com/groob/elm-videos.git {
+git https://github.com/groob/macadmin-vids.git {
     interval 60
     then /usr/local/bin/elm-make --yes /app/site/src/Main.elm --output /app/site/elm.js
 }
